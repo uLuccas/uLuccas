@@ -13,9 +13,9 @@
     <img align="center" alt="luccas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="luccas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-    <img align="center" alt="luccas-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+<!--     <img align="center" alt="luccas-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="luccas-GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
-    <img align="right" alt="lucas-gif" height="150" style="border-radius:10px;" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif">
+    <img align="right" alt="lucas-gif" height="150" style="border-radius:10px;" src="https://c.tenor.com/KBe_nw4IL2QAAAAC/matrix-code.gif"> -->
 </div>
   
   ##
