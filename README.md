@@ -15,7 +15,7 @@
 
 <h2 align="center">Sobre mim</h2>
 
-<ul align="center" style="list-style-position: inside;">
+<ul align="center" style="list-style-position: inside; list-style-type: none;">
   <li>🛠️ Desenvolvimento web e backend</li>
   <li>🎯 Código limpo, arquitetura organizada e aprendizado contínuo</li>
 </ul>
@@ -52,7 +52,7 @@
 
 <h2 align="center">🚀 O que eu gosto de construir</h2>
 
-<ul align="center" style="list-style-position: inside;">
+<ul align="center" style="list-style-position: inside; list-style-type: none;">
   <li>Aplicações web modernas</li>
   <li>APIs bem desenhadas e consistentes</li>
   <li>Projetos pensados para escalar e para manutenção</li>
