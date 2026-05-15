@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Luccas 👋</h1>
 
-<p align="center">
+<p align="start">
   Desenvolvedor focado em aplicações <strong>modernas, performáticas e bem estruturadas</strong>.<br/>
   Atuo fullstack com <strong>TypeScript, React, Next.js e Go</strong>, priorizando arquitetura clara, código legível e evolução sustentável do projeto — além do “só funcionar”.
 </p>
@@ -41,6 +41,7 @@
     src="https://github-readme-stats.vercel.app/api?username=uLuccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub de uLuccas"
   />
+  <br />
   <img
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLuccas&layout=compact&langs_count=8&theme=dracula"
@@ -52,7 +53,7 @@
 
 <h2 align="center">🚀 O que eu gosto de construir</h2>
 
-<ul align="center" style="list-style-position: inside; list-style-type: none;">
+<ul align="start" style="list-style-position: inside; list-style-type: none;">
   <li>Aplicações web modernas</li>
   <li>APIs bem desenhadas e consistentes</li>
   <li>Projetos pensados para escalar e para manutenção</li>
