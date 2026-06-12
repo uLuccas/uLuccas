@@ -35,13 +35,13 @@
 
 <h3 align="center">📊 Estatísticas</h3>
 
-<p align="center">
+<p style="display: flex; justify-content: center; align-items: center; gap: 16px;">
   <img
     height="160"
     src="https://github-readme-stats.vercel.app/api?username=uLuccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub de uLuccas"
   />
-  <br />
+
   <img
     height="160"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLuccas&layout=compact&langs_count=8&theme=dracula"
