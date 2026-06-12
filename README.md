@@ -18,6 +18,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 💼 **Senior Fullstack Developer** — atuo em todo o ciclo: backend, frontend, banco e infra
+- 📚 Pós-graduando em **Software Architecture** na **FIAP**
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (Universidade Cidade de São Paulo)
 - 🏗️ Gosto de **APIs bem desenhadas**, arquitetura organizada e projetos pensados para escalar
 - 🌱 Aprendizado contínuo — atualmente me aprofundando em **Go** (concorrência, cache, filas)
