@@ -1,8 +1,10 @@
 <h1 align="center">Olá, eu sou o Luccas 👋</h1>
+<h3 align="center">Senior Fullstack Developer · TypeScript · React · Next.js · Node.js · Go</h3>
 
-<p align="start">
-  Desenvolvedor focado em aplicações <strong>modernas, performáticas e bem estruturadas</strong>.<br/>
-  Atuo fullstack com <strong>TypeScript, React, Next.js e Go</strong>, priorizando arquitetura clara, código legível e evolução sustentável do projeto — além do “só funcionar”.
+<p align="center">
+  Desenvolvedor focado em <strong>soluções simples para problemas difíceis</strong>.<br/>
+  Construo aplicações modernas e performáticas de ponta a ponta — do design da API à experiência do usuário —<br/>
+  priorizando arquitetura clara, código legível e evolução sustentável do produto, além do "só funcionar".
 </p>
 
 <p align="center">
@@ -11,71 +13,70 @@
   </a>
 </p>
 
-<hr />
+---
 
-<h2 align="center">Sobre mim</h2>
+## 🧑‍💻 Sobre mim
 
-<ul align="center" style="list-style-position: inside; list-style-type: none;">
-  <li>🛠️ Desenvolvimento web e backend</li>
-  <li>🎯 Código limpo, arquitetura organizada e aprendizado contínuo</li>
-</ul>
+- 💼 **Senior Fullstack Developer** — atuo em todo o ciclo: backend, frontend, banco e infra
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (Universidade Cidade de São Paulo)
+- 🏗️ Gosto de **APIs bem desenhadas**, arquitetura organizada e projetos pensados para escalar
+- 🌱 Aprendizado contínuo — atualmente me aprofundando em **Go** (concorrência, cache, filas)
+- 🎯 Empenhado em transformar a experiência do usuário com a tecnologia
 
-<hr />
+---
 
-<h3 align="center">⚙️ Tecnologias que uso</h3>
+## ⚙️ Tecnologias
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,go,html,css"
-    alt="JavaScript, TypeScript, React, Next.js, Node.js, Go, HTML e CSS"
-  />
+**Linguagens & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,go" alt="TypeScript, JavaScript, React, Next.js, Node.js e Go" />
 </p>
 
-<hr />
+**Banco de dados, Infra & Ferramentas**
 
-<h3 align="center">📊 Estatísticas</h3>
-
-<p style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=uLuccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub de uLuccas"
-  />
-
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLuccas&layout=compact&langs_count=8&theme=dracula"
-    alt="Linguagens mais usadas no GitHub de uLuccas"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,git,html,css" alt="PostgreSQL, Redis, Docker, Git, HTML e CSS" />
 </p>
 
-<hr />
+---
 
-<h2 align="center">🚀 O que eu gosto de construir</h2>
+## 🚀 O que eu gosto de construir
 
-<ul align="start" style="list-style-position: inside; list-style-type: none;">
-  <li>Aplicações web modernas</li>
-  <li>APIs bem desenhadas e consistentes</li>
-  <li>Projetos pensados para escalar e para manutenção</li>
-  <li>Soluções que integram frontend, backend e boa experiência de uso</li>
-</ul>
+- Aplicações web modernas com **Next.js + APIs em Go/Node**
+- APIs consistentes, com cache, rate limiting e observabilidade desde o início
+- Projetos pensados para **escalar e para manutenção**
+- Soluções que integram frontend, backend e boa experiência de uso
 
-<hr />
+---
 
-<h3 align="center">📫 Contato</h3>
-
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/luccas-sanches-671114200/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-  </li>
-</ul>
-
-<hr />
+## 📊 Estatísticas
 
 <p align="center">
-  <em>“Sempre dá pra deixar o código mais limpo, o projeto mais sólido e o café mais forte.”</em>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uLuccas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de uLuccas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uLuccas&layout=compact&langs_count=8&theme=dracula&hide_border=true" alt="Linguagens mais usadas no GitHub de uLuccas" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/uLuccas/uLuccas/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://streak-stats.demolab.com?user=uLuccas&theme=dracula&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de uLuccas" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/luccas-sanches-671114200/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Luccas%20Sanches-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn de Luccas Sanches" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>"Sempre dá pra deixar o código mais limpo, o projeto mais sólido e o café mais forte."</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/uLuccas/uLuccas/blob/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha de contribuições" />
 </p>
